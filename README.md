@@ -1,4 +1,4 @@
-# Recommended Resources
+# Recommended Javascript Resources
 
 ## Primer on Javascript for devs coming from other languages
 
@@ -20,3 +20,19 @@ Articles:
 * [Semantic Compression](https://caseymuratori.com/blog_0015)
 * [Going Fast, Frankentein, and Refactoring](https://blog.izs.me/2008/01/going-fast-frankenstein-and-refactoring)
 * [Things You Should Never Do](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+
+## Intermediate Javascript
+
+* [Node.js: Style and structure](https://caolan.org/posts/nodejs_style_and_structure.html)
+* [Javascript Scoping and Hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
+* [Function binding](https://alistapart.com/article/getoutbindingsituations)
+
+## Workshops
+
+There are a ton of nodeschool interactive workshops (https://nodeschool.io/#workshopper-list), but I combed through them and looked closely at some of the electives & thought that these ones look especially helpful & relevant for Javascript development:
+
+  * "Functional Javascript"
+  * "ExpressWorks"
+  * "Async You"
+  * "LololoDash"
+  * "regex-adventure"
