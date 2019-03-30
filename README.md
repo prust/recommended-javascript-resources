@@ -1,14 +1,17 @@
 # Recommended Javascript Resources
 
-## Primer on Javascript for people familiar with other languages
+## Primers on Javascript
 
-* [Javascript for Java Developers](https://www.ibm.com/developerworks/library/j-javadev2-18/index.html)
 * [nodeschool interactive workshops](https://nodeschool.io/#workshopper-list)
   * javascripting
   * learnyounode
 * [Mozilla's Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * except chapter 10 & chapters 13-15
-  
+
+## Primers on Javascript for Java Developers
+
+* [Javascript for Java Developers](https://www.ibm.com/developerworks/library/j-javadev2-18/index.html)
+
 ## General Coding Philosophy
 
 * Book: [The Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master)
