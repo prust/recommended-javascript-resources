@@ -6,7 +6,7 @@
   * javascripting
   * learnyounode
 * [Mozilla's Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-  * except chapter 10 & chapters 13-15
+  * except the chapters on Keyed Collections, Iterators and generators, and Meta programming
 
 ## Primers on Javascript for Java Developers
 
